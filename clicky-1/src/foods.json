@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Burrito",
+      "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 2,
+      "name": "Pancakes",
+      "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 3,
+      "name": "Burger & Fries",
+      "image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 4,
+      "name": "Salmon",
+      "image": "https://images.pexels.com/photos/46239/salmon-dish-food-meal-46239.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 5,
+      "name": "Spaghetti",
+      "image": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 6,
+      "name": "Steak",
+      "image": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 7,
+      "name": "Chocolate Cake",
+      "image": "https://images.pexels.com/photos/132694/pexels-photo-132694.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 8,
+      "name": "Salmon 2",
+      "image": "https://images.pexels.com/photos/262959/pexels-photo-262959.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 9,
+      "name": "Burger 2",
+      "image": "https://images.pexels.com/photos/156114/pexels-photo-156114.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 10,
+      "name": "Chocolate Cake 2",
+      "image": "https://images.pexels.com/photos/45202/brownie-dessert-cake-sweet-45202.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 11,
+      "name": "Burger 3",
+      "image": "https://images.pexels.com/photos/161519/abstract-barbecue-barbeque-bbq-161519.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 12,
+      "name": "Spaghetti 2",
+      "image": "https://images.pexels.com/photos/64208/pexels-photo-64208.jpeg?auto=compress&cs=tinysrgb&h=350"
+    }
+  ]
+  
